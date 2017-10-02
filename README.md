@@ -1,2 +1,3 @@
-# NN-MNIST
-Neural Network Digit classifier on MNIST dataset 
+# CNN-MNIST
+
+Convolutional Neural Network Digit classifier on MNIST dataset. 
